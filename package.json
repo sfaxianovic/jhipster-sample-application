@@ -1,0 +1,16 @@
+{
+    "name": "first-jhipster",
+    "version": "0.0.0",
+    "description": "Description for firstJhipster",
+    "private": true,
+    "license": "UNLICENSED",
+    "cacheDirectories": [
+        "node_modules"
+    ],
+    "devDependencies": {
+        "generator-jhipster": "5.8.2"
+    },
+    "engines": {
+        "node": ">=8.9.0"
+    }
+}
